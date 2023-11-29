@@ -17,4 +17,4 @@ Ding, L.D., Ding, C.Z., Tao, J., Tang, B.L., Sun, J.R., Liu, X.C., & He, D.M. (2
 Adding new entries to the [**FishBT**](https://fish-ecology.shinyapps.io/fishbt) database (updated annually) is encouraged. Topright navbar of this database pull requests are the preferred means of making a contribution to the project.
 
 ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Otoliths/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/MFishBT/count.svg)
